@@ -1,8 +1,15 @@
-<h1> Dashbord com SVG </h1>
+<h1 align="center"> Dashboard com SVG </h1>
+
+<p align="center">
+Desafio 08 do #boracodar da Rocketseat <br/>
+</p>
+
+</div>
 
 
+![preview](./assets/Dashbord.png)
 
-
+<div style="display: inline_block">
 
 ## 🚀 Tecnologias
 
